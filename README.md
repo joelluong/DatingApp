@@ -3,6 +3,7 @@
 ## Table of Contents
 
 * [Description](#Description)
+* [Images](#Images)
 * [Dependencies](#Dependencies)
 
 ## Description
@@ -19,22 +20,24 @@ Here are the things have been implemented in Dating App so far:
 * Adding Photo Upload functionality as well as a cool looking gallery in Angular
 * Angular Template Form and Reactive forms and validations
 
-Figure 1. Login page:
+## Images
+
+* Figure 1. Login page:
 
 ![alt text](images/LoginPage.JPG)
 
-Figure 2. Register page:
+* Figure 2. Register page:
 
 ![alt text](images/RegisterPage.JPG)
 
-Figure 2. Members page:
+* Figure 3. Members page:
 
 ![alt text](images/MembersPage.JPG)
 
-Figure 3. Member Details of the other members
+* Figure 4. Member Details of the other members
 ![alt text](images/MemberDetailPage.JPG)
 
-Figure 4. Member Edit where user could edit their profile.
+* Figure 5. Member Edit where user could edit their profile.
 ![alt text](images/MemberEditPage.JPG)
 
 
