@@ -3,8 +3,8 @@
 ## Table of Contents
 
 * [Description](#Description)
-* [Images](#Images)
 * [Dependencies](#Dependencies)
+* [Images](#Images)
 
 ## Description
 
@@ -19,6 +19,15 @@ Here are the things have been implemented in Dating App so far:
 * Building a great looking UI using Bootstrap
 * Adding Photo Upload functionality as well as a cool looking gallery in Angular
 * Angular Template Form and Reactive forms and validations
+
+## Dependencies
+
+The project is cooperated with the following frameworks and third party components:
+* ASP.NET Core (v2.1), Angular (v6), Bootstrap, Entity Framework Core
+* Authentication using JWT Authentication Tokens
+* AlertifyJS for displaying notifications
+* Cloudinary for storing images
+* And more ...
 
 ## Images
 
@@ -37,15 +46,8 @@ Here are the things have been implemented in Dating App so far:
 * Figure 4. Member Details of the other members
 ![alt text](images/MemberDetailPage.JPG)
 
-* Figure 5. Member Edit where user could edit their profile.
-![alt text](images/MemberEditPage.JPG)
+* Figure 5. Message tab in Member Details where members can send message to each other.
+![alt text](images/MemberMessagePage.JPG)
 
-
-## Dependencies
-
-The project is cooperated with the following frameworks and third party components:
-* ASP.NET Core (v2.1), Angular (v6), Bootstrap, Entity Framework Core
-* Authentication using JWT Authentication Tokens
-* AlertifyJS for displaying notifications
-* Cloudinary for storing images
-* And more ...
+* Figure 6. Messages page where members recieve and check unread messages.
+![alt text](images/MessagesPage.JPG)
