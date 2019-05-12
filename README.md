@@ -41,13 +41,16 @@ The project is cooperated with the following frameworks and third party componen
 
 * Figure 3. Members page:
 
-![alt text](images/MembersPage.JPG)
+![alt text](images/MembersPage_1.JPG)
 
 * Figure 4. Member Details of the other members
+
 ![alt text](images/MemberDetailPage.JPG)
 
 * Figure 5. Message tab in Member Details where members can send message to each other.
+
 ![alt text](images/MemberMessagePage.JPG)
 
-* Figure 6. Messages page where members recieve and check unread messages.
+* Figure 6. Messages page where members recieve messages and check unread messages.
+
 ![alt text](images/MessagesPage.JPG)
