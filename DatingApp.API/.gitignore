@@ -1,7 +1,7 @@
+Data\UserSeedData.json
+Data\Seed.cs
+appsettings.json
 .vscode
 bin
 obj
 *.db
-Data/UserSeedData.json
-Data/Seed.cs
-appsettings.json
