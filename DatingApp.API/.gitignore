@@ -2,3 +2,6 @@
 bin
 obj
 *.db
+Data\UserSeedData.json
+Data\Seed.cs
+appsettings.json
